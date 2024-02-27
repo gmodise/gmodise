@@ -32,23 +32,26 @@
   Back-End: Python, Java, C
 
   
-  Databases: MongoDB, MySQL
+  Databases: MySQL, Oracle
 
   
   Version Control: Git (of course!)
   
 
 
-- 🌱 I’m currently learning Java ...
+- I’m currently learning Java and C...
   
   
-- 💞️ I’m looking to collaborate on ..
+- I’m looking to collaborate on open source software development...
 
   
-- 📫 How to reach me ...
+- How to reach me
+
+Linkedin:  
+Email: godimodise1@gmail.com
 
 
-- ⚡ Fun fact: ...
+- Fun fact: ...
 
 
 <!---
